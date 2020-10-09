@@ -1,1 +1,1 @@
-This is Nathen Navon's first git project
+This is Nathen Navon's first Odin  project
